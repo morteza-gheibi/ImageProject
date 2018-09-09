@@ -13,7 +13,7 @@ namespace ConsoleApp1
     {
         static void Main(string[] args)
         {   
-            string base64Guid = Convert.ToBase64String(Guid.NewGuid().ToByteArray());
+            var base64Guid = Convert.ToBase64String(Guid.NewGuid().ToByteArray());
             var uid = Regex.Replace(Convert.ToBase64String(Guid.NewGuid().ToByteArray()), "[/+=]", "");
             var ss = uid.Length;
             var s = base64Guid.Length;
