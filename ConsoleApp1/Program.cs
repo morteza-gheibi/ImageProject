@@ -23,8 +23,6 @@ namespace ConsoleApp1
 
             var ss = uid.Length;
             var s = base64Guid.Length;
-
-
            //var e= uow.Repository<Category>().GetAll();
 
             //var tb = new Category() { CategoryId = uid, CategoryName = "test", ParentId = 0 ,CreateDate=DateTime.Now , CreateUserId=1,IsActive=true,IsDelete=true };
