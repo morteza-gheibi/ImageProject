@@ -1,0 +1,44 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Schema Namespace="ImageDBModel.Store" Provider="System.Data.SqlClient" ProviderManifestToken="2012" Alias="Self" xmlns:store="http://schemas.microsoft.com/ado/2007/12/edm/EntityStoreSchemaGenerator" xmlns:customannotation="http://schemas.microsoft.com/ado/2013/11/edm/customannotation" xmlns="http://schemas.microsoft.com/ado/2009/11/edm/ssdl">
+  <EntityType Name="Category">
+    <Key>
+      <PropertyRef Name="CategoryId" />
+    </Key>
+    <Property Name="CategoryId" Type="nchar" MaxLength="22" Nullable="false" />
+    <Property Name="CategoryName" Type="nvarchar" MaxLength="50" />
+    <Property Name="ParentId" Type="int" />
+    <Property Name="CreateDate" Type="smalldatetime" />
+    <Property Name="CreateUserId" Type="int" />
+    <Property Name="IsDelete" Type="bit" />
+    <Property Name="IsActive" Type="bit" />
+  </EntityType>
+  <EntityType Name="CategoryItem">
+    <Key>
+      <PropertyRef Name="CategoryItemId" />
+    </Key>
+    <Property Name="CategoryItemId" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="CategoryItemName" Type="nvarchar" MaxLength="50" />
+  </EntityType>
+  <!--Errors Found During Generation:
+warning 6005: The data type 'JalaliDate' is currently not supported for the target Entity Framework version; the column 'TestDate' in the table 'ImageDB.dbo.TblTest' was excluded.-->
+  <EntityType Name="TblTest">
+    <Key>
+      <PropertyRef Name="Testid" />
+    </Key>
+    <Property Name="Testid" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="TestText" Type="nvarchar" MaxLength="50" />
+  </EntityType>
+  <EntityType Name="tblTest2">
+    <Key>
+      <PropertyRef Name="test2" />
+    </Key>
+    <Property Name="test2" Type="nvarchar" MaxLength="50" Nullable="false" />
+    <Property Name="testText" Type="nvarchar" MaxLength="50" />
+  </EntityType>
+  <EntityContainer Name="ImageDBModelStoreContainer">
+    <EntitySet Name="Category" EntityType="Self.Category" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="CategoryItem" EntityType="Self.CategoryItem" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="TblTest" EntityType="Self.TblTest" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="tblTest2" EntityType="Self.tblTest2" Schema="dbo" store:Type="Tables" />
+  </EntityContainer>
+</Schema>

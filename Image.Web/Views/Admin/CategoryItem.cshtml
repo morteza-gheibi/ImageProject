@@ -1,0 +1,120 @@
+﻿
+@{
+    ViewBag.Title = "CategoryItem";
+}
+<script type="text/javascript">
+    var grid;
+    function Add() {
+        $("#categoryItemId").val("0");
+        $("#categoryItemname").val("");
+        $("#playerModal").modal("show");
+    }
+    function Edit(e) {
+        console.log(e.data.record.CategoryItemName)
+        $("#CategoryItemId").val(e.data.record.CategoryItemId);
+        $("#CategoryItemName").val(e.data.record.CategoryItemName);
+        $("#playerModal").modal("show");
+    }
+    function Save() {
+        var id = $("#CategoryItemId").val();
+        action = "CategoryItemUpdate"
+        if (!id) {
+            var action = "CategoryItemInsert";
+        }
+        var data = {};
+        data.categoryItem = {};
+        data.categoryItem.CategoryItemId = id;
+        data.categoryItem.CategoryItemName = $("#CategoryItemName").val();
+
+        GoToServer('/Admin/' + action, data, function (data, s) {
+            console.log(data)
+            if (data != null) {
+                grid.reload();
+                $("#playerModal").modal("hide");
+            }
+            else {
+                alert("Unable to save.");
+                $("#playerModal").modal("hide");
+            }
+        });
+    }
+    function Remove(e) {
+        //GoToServer('/Admin/CategoryItemDelete', { Id: e.data.id }, function (data, s) {
+        //    console.log(data)
+        //    console.log(data.d)
+
+        //});
+        $.ajax({ url: "/Admin/CategoryItemDelete", type: "POST", data: { Id: e.data.id } })
+            .done(function () {
+                grid.reload();
+            })
+            .fail(function () {
+                alert("Unable to remove.");
+            });
+    }
+    function Search() {
+        grid.reload({ CategoryItemName: $("#search").val() });
+    }
+
+    $(document).ready(function () {
+        grid = $("#grid").grid({
+            dataKey: "CategoryItemId",
+            uiLibrary: "bootstrap",
+            columns: [
+                { field: "CategoryItemId", title: "ردیف", width: 50, sortable: true },
+                { field: "CategoryItemName", title: "عنوان", sortable: true },
+                { title: "", field: "Edit", width: 34, type: "icon", icon: "glyphicon-pencil", tooltip: "Edit", events: { "click": Edit } },
+                { title: "", field: "Delete", width: 34, type: "icon", icon: "glyphicon-remove", tooltip: "Delete", events: { "click": Remove } }
+            ],
+            pager: { enable: true, limit: 5, sizes: [2, 5, 10, 20] }
+        });
+        $("#btnAddPlayer").on("click", Add);
+        $("#btnSave").on("click", Save);
+        $("#btnSearch").on("click", Search);
+    });
+</script>
+
+
+<div class="container fill">
+    <div class="row">
+        <div class="col-md-3">
+            <div class="input-group">
+                <input type="text" id="search" class="form-control" placeholder="Search for...">
+                <span class="input-group-btn">
+                    <button type="button" id="btnSearch" class="btn btn-default">Go!</button>
+                </span>
+            </div>
+        </div>
+        <div class="col-md-9">
+            <button type="button" id="btnAddPlayer" class="btn btn-default pull-right">Add New Player</button>
+        </div>
+    </div>
+    <br />
+    <table id="grid" data-source="@Url.Action("CategoryItemList")"></table>
+</div>
+
+<!-- Modal -->
+<div class="modal fade" id="playerModal" tabindex="-1" role="dialog" aria-labelledby="myModalLabel" aria-hidden="true">
+    <div class="modal-dialog">
+        <div class="modal-content">
+            <div class="modal-header">
+                <button type="button" class="close" data-dismiss="modal" aria-label="Close"><span aria-hidden="true">&times;</span></button>
+                <h4 class="modal-title" id="myModalLabel">Player</h4>
+            </div>
+            <div class="modal-body">
+                <form>
+                    <input type="hidden" id="CategoryItemId" />
+                    <div class="form-group">
+                        <label for="name">CategoryItemName</label>
+                        <input type="text" class="form-control" id="CategoryItemName" placeholder="Enter Name">
+                    </div>
+                </form>
+            </div>
+            <div class="modal-footer">
+                <button type="button" class="btn btn-default" data-dismiss="modal">Close</button>
+                <button type="button" id="btnSave" class="btn btn-primary">Save</button>
+            </div>
+        </div>
+    </div>
+</div>
+

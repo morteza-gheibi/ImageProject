@@ -1,0 +1,258 @@
+C:\Users\admin\Documents\Visual Studio 2017\Projects\ImageProject\Image.Web\bin\ApplicationInsights.config
+C:\Users\admin\Documents\Visual Studio 2017\Projects\ImageProject\Image.Web\bin\Image.Web.dll.config
+C:\Users\admin\Documents\Visual Studio 2017\Projects\ImageProject\Image.Web\bin\Image.Web.dll
+C:\Users\admin\Documents\Visual Studio 2017\Projects\ImageProject\Image.Web\bin\Image.Web.pdb
+C:\Users\admin\Documents\Visual Studio 2017\Projects\ImageProject\Image.Web\bin\roslyn\csc.exe
+C:\Users\admin\Documents\Visual Studio 2017\Projects\ImageProject\Image.Web\bin\roslyn\csc.exe.config
+C:\Users\admin\Documents\Visual Studio 2017\Projects\ImageProject\Image.Web\bin\roslyn\csc.rsp
+C:\Users\admin\Documents\Visual Studio 2017\Projects\ImageProject\Image.Web\bin\roslyn\csi.exe
+C:\Users\admin\Documents\Visual Studio 2017\Projects\ImageProject\Image.Web\bin\roslyn\csi.exe.config
+C:\Users\admin\Documents\Visual Studio 2017\Projects\ImageProject\Image.Web\bin\roslyn\csi.rsp
+C:\Users\admin\Documents\Visual Studio 2017\Projects\ImageProject\Image.Web\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\admin\Documents\Visual Studio 2017\Projects\ImageProject\Image.Web\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\admin\Documents\Visual Studio 2017\Projects\ImageProject\Image.Web\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\admin\Documents\Visual Studio 2017\Projects\ImageProject\Image.Web\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\admin\Documents\Visual Studio 2017\Projects\ImageProject\Image.Web\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\admin\Documents\Visual Studio 2017\Projects\ImageProject\Image.Web\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\admin\Documents\Visual Studio 2017\Projects\ImageProject\Image.Web\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\admin\Documents\Visual Studio 2017\Projects\ImageProject\Image.Web\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\admin\Documents\Visual Studio 2017\Projects\ImageProject\Image.Web\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\admin\Documents\Visual Studio 2017\Projects\ImageProject\Image.Web\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\admin\Documents\Visual Studio 2017\Projects\ImageProject\Image.Web\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\admin\Documents\Visual Studio 2017\Projects\ImageProject\Image.Web\bin\roslyn\System.AppContext.dll
+C:\Users\admin\Documents\Visual Studio 2017\Projects\ImageProject\Image.Web\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\admin\Documents\Visual Studio 2017\Projects\ImageProject\Image.Web\bin\roslyn\System.Console.dll
+C:\Users\admin\Documents\Visual Studio 2017\Projects\ImageProject\Image.Web\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\admin\Documents\Visual Studio 2017\Projects\ImageProject\Image.Web\bin\roslyn\System.Diagnostics.Process.dll
+C:\Users\admin\Documents\Visual Studio 2017\Projects\ImageProject\Image.Web\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\admin\Documents\Visual Studio 2017\Projects\ImageProject\Image.Web\bin\roslyn\System.IO.Compression.dll
+C:\Users\admin\Documents\Visual Studio 2017\Projects\ImageProject\Image.Web\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\admin\Documents\Visual Studio 2017\Projects\ImageProject\Image.Web\bin\roslyn\System.IO.FileSystem.DriveInfo.dll
+C:\Users\admin\Documents\Visual Studio 2017\Projects\ImageProject\Image.Web\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\admin\Documents\Visual Studio 2017\Projects\ImageProject\Image.Web\bin\roslyn\System.IO.Pipes.dll
+C:\Users\admin\Documents\Visual Studio 2017\Projects\ImageProject\Image.Web\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\admin\Documents\Visual Studio 2017\Projects\ImageProject\Image.Web\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\admin\Documents\Visual Studio 2017\Projects\ImageProject\Image.Web\bin\roslyn\System.Security.Claims.dll
+C:\Users\admin\Documents\Visual Studio 2017\Projects\ImageProject\Image.Web\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\admin\Documents\Visual Studio 2017\Projects\ImageProject\Image.Web\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\admin\Documents\Visual Studio 2017\Projects\ImageProject\Image.Web\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\admin\Documents\Visual Studio 2017\Projects\ImageProject\Image.Web\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\admin\Documents\Visual Studio 2017\Projects\ImageProject\Image.Web\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\admin\Documents\Visual Studio 2017\Projects\ImageProject\Image.Web\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\admin\Documents\Visual Studio 2017\Projects\ImageProject\Image.Web\bin\roslyn\System.Threading.Thread.dll
+C:\Users\admin\Documents\Visual Studio 2017\Projects\ImageProject\Image.Web\bin\roslyn\System.ValueTuple.dll
+C:\Users\admin\Documents\Visual Studio 2017\Projects\ImageProject\Image.Web\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\admin\Documents\Visual Studio 2017\Projects\ImageProject\Image.Web\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\admin\Documents\Visual Studio 2017\Projects\ImageProject\Image.Web\bin\roslyn\System.Xml.XPath.dll
+C:\Users\admin\Documents\Visual Studio 2017\Projects\ImageProject\Image.Web\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\admin\Documents\Visual Studio 2017\Projects\ImageProject\Image.Web\bin\roslyn\vbc.exe
+C:\Users\admin\Documents\Visual Studio 2017\Projects\ImageProject\Image.Web\bin\roslyn\vbc.exe.config
+C:\Users\admin\Documents\Visual Studio 2017\Projects\ImageProject\Image.Web\bin\roslyn\vbc.rsp
+C:\Users\admin\Documents\Visual Studio 2017\Projects\ImageProject\Image.Web\bin\roslyn\VBCSCompiler.exe
+C:\Users\admin\Documents\Visual Studio 2017\Projects\ImageProject\Image.Web\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\admin\Documents\Visual Studio 2017\Projects\ImageProject\Image.Web\bin\Antlr3.Runtime.dll
+C:\Users\admin\Documents\Visual Studio 2017\Projects\ImageProject\Image.Web\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\admin\Documents\Visual Studio 2017\Projects\ImageProject\Image.Web\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\admin\Documents\Visual Studio 2017\Projects\ImageProject\Image.Web\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\admin\Documents\Visual Studio 2017\Projects\ImageProject\Image.Web\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\admin\Documents\Visual Studio 2017\Projects\ImageProject\Image.Web\bin\Microsoft.AI.Web.dll
+C:\Users\admin\Documents\Visual Studio 2017\Projects\ImageProject\Image.Web\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\admin\Documents\Visual Studio 2017\Projects\ImageProject\Image.Web\bin\Microsoft.ApplicationInsights.dll
+C:\Users\admin\Documents\Visual Studio 2017\Projects\ImageProject\Image.Web\bin\Microsoft.AspNet.TelemetryCorrelation.dll
+C:\Users\admin\Documents\Visual Studio 2017\Projects\ImageProject\Image.Web\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\admin\Documents\Visual Studio 2017\Projects\ImageProject\Image.Web\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\admin\Documents\Visual Studio 2017\Projects\ImageProject\Image.Web\bin\Newtonsoft.Json.dll
+C:\Users\admin\Documents\Visual Studio 2017\Projects\ImageProject\Image.Web\bin\System.Diagnostics.DiagnosticSource.dll
+C:\Users\admin\Documents\Visual Studio 2017\Projects\ImageProject\Image.Web\bin\System.Web.Helpers.dll
+C:\Users\admin\Documents\Visual Studio 2017\Projects\ImageProject\Image.Web\bin\System.Web.Mvc.dll
+C:\Users\admin\Documents\Visual Studio 2017\Projects\ImageProject\Image.Web\bin\System.Web.Optimization.dll
+C:\Users\admin\Documents\Visual Studio 2017\Projects\ImageProject\Image.Web\bin\System.Web.Razor.dll
+C:\Users\admin\Documents\Visual Studio 2017\Projects\ImageProject\Image.Web\bin\System.Web.WebPages.Deployment.dll
+C:\Users\admin\Documents\Visual Studio 2017\Projects\ImageProject\Image.Web\bin\System.Web.WebPages.dll
+C:\Users\admin\Documents\Visual Studio 2017\Projects\ImageProject\Image.Web\bin\System.Web.WebPages.Razor.dll
+C:\Users\admin\Documents\Visual Studio 2017\Projects\ImageProject\Image.Web\bin\WebGrease.dll
+C:\Users\admin\Documents\Visual Studio 2017\Projects\ImageProject\Image.Web\bin\System.Web.Helpers.xml
+C:\Users\admin\Documents\Visual Studio 2017\Projects\ImageProject\Image.Web\bin\System.Web.Mvc.xml
+C:\Users\admin\Documents\Visual Studio 2017\Projects\ImageProject\Image.Web\bin\System.Web.Optimization.xml
+C:\Users\admin\Documents\Visual Studio 2017\Projects\ImageProject\Image.Web\bin\System.Web.Razor.xml
+C:\Users\admin\Documents\Visual Studio 2017\Projects\ImageProject\Image.Web\bin\System.Web.WebPages.xml
+C:\Users\admin\Documents\Visual Studio 2017\Projects\ImageProject\Image.Web\bin\System.Web.WebPages.Deployment.xml
+C:\Users\admin\Documents\Visual Studio 2017\Projects\ImageProject\Image.Web\bin\System.Web.WebPages.Razor.xml
+C:\Users\admin\Documents\Visual Studio 2017\Projects\ImageProject\Image.Web\bin\Newtonsoft.Json.xml
+C:\Users\admin\Documents\Visual Studio 2017\Projects\ImageProject\Image.Web\bin\Antlr3.Runtime.pdb
+C:\Users\admin\Documents\Visual Studio 2017\Projects\ImageProject\Image.Web\bin\System.Diagnostics.DiagnosticSource.xml
+C:\Users\admin\Documents\Visual Studio 2017\Projects\ImageProject\Image.Web\bin\Microsoft.AspNet.TelemetryCorrelation.xml
+C:\Users\admin\Documents\Visual Studio 2017\Projects\ImageProject\Image.Web\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\admin\Documents\Visual Studio 2017\Projects\ImageProject\Image.Web\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\admin\Documents\Visual Studio 2017\Projects\ImageProject\Image.Web\bin\Microsoft.AI.Web.xml
+C:\Users\admin\Documents\Visual Studio 2017\Projects\ImageProject\Image.Web\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\admin\Documents\Visual Studio 2017\Projects\ImageProject\Image.Web\obj\Debug\Image.Web.csprojAssemblyReference.cache
+C:\Users\admin\Documents\Visual Studio 2017\Projects\ImageProject\Image.Web\obj\Debug\Image.Web.csproj.CoreCompileInputs.cache
+C:\Users\admin\Documents\Visual Studio 2017\Projects\ImageProject\Image.Web\obj\Debug\Image.Web.csproj.CopyComplete
+C:\Users\admin\Documents\Visual Studio 2017\Projects\ImageProject\Image.Web\obj\Debug\Image.Web.dll
+C:\Users\admin\Documents\Visual Studio 2017\Projects\ImageProject\Image.Web\obj\Debug\Image.Web.pdb
+C:\Users\admin\Documents\Visual Studio 2017\Projects\ImageProject\Image.Web\bin\EntityFramework.dll
+C:\Users\admin\Documents\Visual Studio 2017\Projects\ImageProject\Image.Web\bin\EntityFramework.SqlServer.dll
+C:\Users\admin\Documents\Visual Studio 2017\Projects\ImageProject\Image.Web\bin\ImageProject.BLL.dll
+C:\Users\admin\Documents\Visual Studio 2017\Projects\ImageProject\Image.Web\bin\ImageProject.DataLayout.dll
+C:\Users\admin\Documents\Visual Studio 2017\Projects\ImageProject\Image.Web\bin\ImageProject.BLL.pdb
+C:\Users\admin\Documents\Visual Studio 2017\Projects\ImageProject\Image.Web\bin\ImageProject.DataLayout.pdb
+C:\Users\admin\Documents\Visual Studio 2017\Projects\ImageProject\Image.Web\bin\ImageProject.DataLayout.dll.config
+C:\Users\admin\Documents\Visual Studio 2017\Projects\ImageProject\Image.Web\bin\EntityFramework.xml
+C:\Users\admin\Documents\Visual Studio 2017\Projects\ImageProject\Image.Web\bin\EntityFramework.SqlServer.xml
+C:\Users\admin\Documents\Visual Studio 2017\Projects\ImageProject\Image.Web\bin\LinqKit.dll
+C:\Users\admin\Documents\Visual Studio 2017\Projects\ImageProject\Image.Web\bin\System.Linq.Dynamic.dll
+C:\Users\admin\Documents\Visual Studio 2017\Projects\ImageProject\Image.Web\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\admin\Documents\Visual Studio 2017\Projects\ImageProject\Image.Web\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\admin\Documents\Visual Studio 2017\Projects\ImageProject\Image.Web\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\admin\Documents\Visual Studio 2017\Projects\ImageProject\Image.Web\bin\Microsoft.Owin.dll
+C:\Users\admin\Documents\Visual Studio 2017\Projects\ImageProject\Image.Web\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\admin\Documents\Visual Studio 2017\Projects\ImageProject\Image.Web\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\admin\Documents\Visual Studio 2017\Projects\ImageProject\Image.Web\bin\Microsoft.Owin.Security.dll
+C:\Users\admin\Documents\Visual Studio 2017\Projects\ImageProject\Image.Web\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\admin\Documents\Visual Studio 2017\Projects\ImageProject\Image.Web\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\admin\Documents\Visual Studio 2017\Projects\ImageProject\Image.Web\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\admin\Documents\Visual Studio 2017\Projects\ImageProject\Image.Web\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\admin\Documents\Visual Studio 2017\Projects\ImageProject\Image.Web\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\admin\Documents\Visual Studio 2017\Projects\ImageProject\Image.Web\bin\Owin.dll
+C:\Users\admin\Documents\Visual Studio 2017\Projects\ImageProject\Image.Web\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\admin\Documents\Visual Studio 2017\Projects\ImageProject\Image.Web\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\admin\Documents\Visual Studio 2017\Projects\ImageProject\Image.Web\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\admin\Documents\Visual Studio 2017\Projects\ImageProject\Image.Web\bin\Microsoft.Owin.xml
+C:\Users\admin\Documents\Visual Studio 2017\Projects\ImageProject\Image.Web\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\admin\Documents\Visual Studio 2017\Projects\ImageProject\Image.Web\bin\Microsoft.Owin.Security.xml
+C:\Users\admin\Documents\Visual Studio 2017\Projects\ImageProject\Image.Web\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\admin\Documents\Visual Studio 2017\Projects\ImageProject\Image.Web\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\admin\Documents\Visual Studio 2017\Projects\ImageProject\Image.Web\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\admin\Documents\Visual Studio 2017\Projects\ImageProject\Image.Web\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\admin\Documents\Visual Studio 2017\Projects\ImageProject\Image.Web\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\admin\Documents\Visual Studio 2017\Projects\ImageProject\Image.Web\bin\Microsoft.Owin.Security.Twitter.xml
+E:\programming\net\my_app\ImageProject\Image.Web\bin\ApplicationInsights.config
+E:\programming\net\my_app\ImageProject\Image.Web\bin\Image.Web.dll.config
+E:\programming\net\my_app\ImageProject\Image.Web\bin\Image.Web.dll
+E:\programming\net\my_app\ImageProject\Image.Web\bin\Image.Web.pdb
+E:\programming\net\my_app\ImageProject\Image.Web\bin\roslyn\csc.exe
+E:\programming\net\my_app\ImageProject\Image.Web\bin\roslyn\csc.exe.config
+E:\programming\net\my_app\ImageProject\Image.Web\bin\roslyn\csc.rsp
+E:\programming\net\my_app\ImageProject\Image.Web\bin\roslyn\csi.exe
+E:\programming\net\my_app\ImageProject\Image.Web\bin\roslyn\csi.exe.config
+E:\programming\net\my_app\ImageProject\Image.Web\bin\roslyn\csi.rsp
+E:\programming\net\my_app\ImageProject\Image.Web\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+E:\programming\net\my_app\ImageProject\Image.Web\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+E:\programming\net\my_app\ImageProject\Image.Web\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+E:\programming\net\my_app\ImageProject\Image.Web\bin\roslyn\Microsoft.CodeAnalysis.dll
+E:\programming\net\my_app\ImageProject\Image.Web\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+E:\programming\net\my_app\ImageProject\Image.Web\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+E:\programming\net\my_app\ImageProject\Image.Web\bin\roslyn\Microsoft.CSharp.Core.targets
+E:\programming\net\my_app\ImageProject\Image.Web\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+E:\programming\net\my_app\ImageProject\Image.Web\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+E:\programming\net\my_app\ImageProject\Image.Web\bin\roslyn\Microsoft.VisualBasic.Core.targets
+E:\programming\net\my_app\ImageProject\Image.Web\bin\roslyn\Microsoft.Win32.Primitives.dll
+E:\programming\net\my_app\ImageProject\Image.Web\bin\roslyn\System.AppContext.dll
+E:\programming\net\my_app\ImageProject\Image.Web\bin\roslyn\System.Collections.Immutable.dll
+E:\programming\net\my_app\ImageProject\Image.Web\bin\roslyn\System.Console.dll
+E:\programming\net\my_app\ImageProject\Image.Web\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+E:\programming\net\my_app\ImageProject\Image.Web\bin\roslyn\System.Diagnostics.Process.dll
+E:\programming\net\my_app\ImageProject\Image.Web\bin\roslyn\System.Diagnostics.StackTrace.dll
+E:\programming\net\my_app\ImageProject\Image.Web\bin\roslyn\System.IO.Compression.dll
+E:\programming\net\my_app\ImageProject\Image.Web\bin\roslyn\System.IO.FileSystem.dll
+E:\programming\net\my_app\ImageProject\Image.Web\bin\roslyn\System.IO.FileSystem.DriveInfo.dll
+E:\programming\net\my_app\ImageProject\Image.Web\bin\roslyn\System.IO.FileSystem.Primitives.dll
+E:\programming\net\my_app\ImageProject\Image.Web\bin\roslyn\System.IO.Pipes.dll
+E:\programming\net\my_app\ImageProject\Image.Web\bin\roslyn\System.Reflection.Metadata.dll
+E:\programming\net\my_app\ImageProject\Image.Web\bin\roslyn\System.Security.AccessControl.dll
+E:\programming\net\my_app\ImageProject\Image.Web\bin\roslyn\System.Security.Claims.dll
+E:\programming\net\my_app\ImageProject\Image.Web\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+E:\programming\net\my_app\ImageProject\Image.Web\bin\roslyn\System.Security.Cryptography.Encoding.dll
+E:\programming\net\my_app\ImageProject\Image.Web\bin\roslyn\System.Security.Cryptography.Primitives.dll
+E:\programming\net\my_app\ImageProject\Image.Web\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+E:\programming\net\my_app\ImageProject\Image.Web\bin\roslyn\System.Security.Principal.Windows.dll
+E:\programming\net\my_app\ImageProject\Image.Web\bin\roslyn\System.Text.Encoding.CodePages.dll
+E:\programming\net\my_app\ImageProject\Image.Web\bin\roslyn\System.Threading.Thread.dll
+E:\programming\net\my_app\ImageProject\Image.Web\bin\roslyn\System.ValueTuple.dll
+E:\programming\net\my_app\ImageProject\Image.Web\bin\roslyn\System.Xml.ReaderWriter.dll
+E:\programming\net\my_app\ImageProject\Image.Web\bin\roslyn\System.Xml.XmlDocument.dll
+E:\programming\net\my_app\ImageProject\Image.Web\bin\roslyn\System.Xml.XPath.dll
+E:\programming\net\my_app\ImageProject\Image.Web\bin\roslyn\System.Xml.XPath.XDocument.dll
+E:\programming\net\my_app\ImageProject\Image.Web\bin\roslyn\vbc.exe
+E:\programming\net\my_app\ImageProject\Image.Web\bin\roslyn\vbc.exe.config
+E:\programming\net\my_app\ImageProject\Image.Web\bin\roslyn\vbc.rsp
+E:\programming\net\my_app\ImageProject\Image.Web\bin\roslyn\VBCSCompiler.exe
+E:\programming\net\my_app\ImageProject\Image.Web\bin\roslyn\VBCSCompiler.exe.config
+E:\programming\net\my_app\ImageProject\Image.Web\bin\Antlr3.Runtime.dll
+E:\programming\net\my_app\ImageProject\Image.Web\bin\EntityFramework.dll
+E:\programming\net\my_app\ImageProject\Image.Web\bin\EntityFramework.SqlServer.dll
+E:\programming\net\my_app\ImageProject\Image.Web\bin\ImageProject.BLL.dll
+E:\programming\net\my_app\ImageProject\Image.Web\bin\ImageProject.DataLayout.dll
+E:\programming\net\my_app\ImageProject\Image.Web\bin\Microsoft.AI.Agent.Intercept.dll
+E:\programming\net\my_app\ImageProject\Image.Web\bin\Microsoft.AI.DependencyCollector.dll
+E:\programming\net\my_app\ImageProject\Image.Web\bin\Microsoft.AI.PerfCounterCollector.dll
+E:\programming\net\my_app\ImageProject\Image.Web\bin\Microsoft.AI.ServerTelemetryChannel.dll
+E:\programming\net\my_app\ImageProject\Image.Web\bin\Microsoft.AI.Web.dll
+E:\programming\net\my_app\ImageProject\Image.Web\bin\Microsoft.AI.WindowsServer.dll
+E:\programming\net\my_app\ImageProject\Image.Web\bin\Microsoft.ApplicationInsights.dll
+E:\programming\net\my_app\ImageProject\Image.Web\bin\Microsoft.AspNet.Identity.Core.dll
+E:\programming\net\my_app\ImageProject\Image.Web\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+E:\programming\net\my_app\ImageProject\Image.Web\bin\Microsoft.AspNet.Identity.Owin.dll
+E:\programming\net\my_app\ImageProject\Image.Web\bin\Microsoft.AspNet.TelemetryCorrelation.dll
+E:\programming\net\my_app\ImageProject\Image.Web\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+E:\programming\net\my_app\ImageProject\Image.Web\bin\Microsoft.Owin.dll
+E:\programming\net\my_app\ImageProject\Image.Web\bin\Microsoft.Owin.Host.SystemWeb.dll
+E:\programming\net\my_app\ImageProject\Image.Web\bin\Microsoft.Owin.Security.Cookies.dll
+E:\programming\net\my_app\ImageProject\Image.Web\bin\Microsoft.Owin.Security.dll
+E:\programming\net\my_app\ImageProject\Image.Web\bin\Microsoft.Owin.Security.Facebook.dll
+E:\programming\net\my_app\ImageProject\Image.Web\bin\Microsoft.Owin.Security.Google.dll
+E:\programming\net\my_app\ImageProject\Image.Web\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+E:\programming\net\my_app\ImageProject\Image.Web\bin\Microsoft.Owin.Security.OAuth.dll
+E:\programming\net\my_app\ImageProject\Image.Web\bin\Microsoft.Owin.Security.Twitter.dll
+E:\programming\net\my_app\ImageProject\Image.Web\bin\Microsoft.Web.Infrastructure.dll
+E:\programming\net\my_app\ImageProject\Image.Web\bin\Newtonsoft.Json.dll
+E:\programming\net\my_app\ImageProject\Image.Web\bin\Owin.dll
+E:\programming\net\my_app\ImageProject\Image.Web\bin\System.Diagnostics.DiagnosticSource.dll
+E:\programming\net\my_app\ImageProject\Image.Web\bin\System.Web.Helpers.dll
+E:\programming\net\my_app\ImageProject\Image.Web\bin\System.Web.Mvc.dll
+E:\programming\net\my_app\ImageProject\Image.Web\bin\System.Web.Optimization.dll
+E:\programming\net\my_app\ImageProject\Image.Web\bin\System.Web.Razor.dll
+E:\programming\net\my_app\ImageProject\Image.Web\bin\System.Web.WebPages.Deployment.dll
+E:\programming\net\my_app\ImageProject\Image.Web\bin\System.Web.WebPages.dll
+E:\programming\net\my_app\ImageProject\Image.Web\bin\System.Web.WebPages.Razor.dll
+E:\programming\net\my_app\ImageProject\Image.Web\bin\WebGrease.dll
+E:\programming\net\my_app\ImageProject\Image.Web\bin\LinqKit.dll
+E:\programming\net\my_app\ImageProject\Image.Web\bin\System.Linq.Dynamic.dll
+E:\programming\net\my_app\ImageProject\Image.Web\bin\ImageProject.BLL.pdb
+E:\programming\net\my_app\ImageProject\Image.Web\bin\ImageProject.DataLayout.pdb
+E:\programming\net\my_app\ImageProject\Image.Web\bin\ImageProject.DataLayout.dll.config
+E:\programming\net\my_app\ImageProject\Image.Web\bin\EntityFramework.xml
+E:\programming\net\my_app\ImageProject\Image.Web\bin\EntityFramework.SqlServer.xml
+E:\programming\net\my_app\ImageProject\Image.Web\bin\Microsoft.AspNet.Identity.Core.xml
+E:\programming\net\my_app\ImageProject\Image.Web\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+E:\programming\net\my_app\ImageProject\Image.Web\bin\Microsoft.AspNet.Identity.Owin.xml
+E:\programming\net\my_app\ImageProject\Image.Web\bin\Microsoft.Owin.xml
+E:\programming\net\my_app\ImageProject\Image.Web\bin\Microsoft.Owin.Host.SystemWeb.xml
+E:\programming\net\my_app\ImageProject\Image.Web\bin\Microsoft.Owin.Security.xml
+E:\programming\net\my_app\ImageProject\Image.Web\bin\Microsoft.Owin.Security.Cookies.xml
+E:\programming\net\my_app\ImageProject\Image.Web\bin\Microsoft.Owin.Security.Facebook.xml
+E:\programming\net\my_app\ImageProject\Image.Web\bin\Microsoft.Owin.Security.Google.xml
+E:\programming\net\my_app\ImageProject\Image.Web\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+E:\programming\net\my_app\ImageProject\Image.Web\bin\Microsoft.Owin.Security.OAuth.xml
+E:\programming\net\my_app\ImageProject\Image.Web\bin\Microsoft.Owin.Security.Twitter.xml
+E:\programming\net\my_app\ImageProject\Image.Web\bin\System.Web.Helpers.xml
+E:\programming\net\my_app\ImageProject\Image.Web\bin\System.Web.Mvc.xml
+E:\programming\net\my_app\ImageProject\Image.Web\bin\System.Web.Optimization.xml
+E:\programming\net\my_app\ImageProject\Image.Web\bin\System.Web.Razor.xml
+E:\programming\net\my_app\ImageProject\Image.Web\bin\System.Web.WebPages.xml
+E:\programming\net\my_app\ImageProject\Image.Web\bin\System.Web.WebPages.Deployment.xml
+E:\programming\net\my_app\ImageProject\Image.Web\bin\System.Web.WebPages.Razor.xml
+E:\programming\net\my_app\ImageProject\Image.Web\bin\Newtonsoft.Json.xml
+E:\programming\net\my_app\ImageProject\Image.Web\bin\Antlr3.Runtime.pdb
+E:\programming\net\my_app\ImageProject\Image.Web\bin\System.Diagnostics.DiagnosticSource.xml
+E:\programming\net\my_app\ImageProject\Image.Web\bin\Microsoft.AspNet.TelemetryCorrelation.xml
+E:\programming\net\my_app\ImageProject\Image.Web\bin\Microsoft.AI.DependencyCollector.xml
+E:\programming\net\my_app\ImageProject\Image.Web\bin\Microsoft.AI.WindowsServer.xml
+E:\programming\net\my_app\ImageProject\Image.Web\bin\Microsoft.AI.Web.xml
+E:\programming\net\my_app\ImageProject\Image.Web\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+E:\programming\net\my_app\ImageProject\Image.Web\obj\Debug\Image.Web.csprojAssemblyReference.cache
+E:\programming\net\my_app\ImageProject\Image.Web\obj\Debug\Image.Web.csproj.CoreCompileInputs.cache
+E:\programming\net\my_app\ImageProject\Image.Web\obj\Debug\Image.Web.csproj.CopyComplete
+E:\programming\net\my_app\ImageProject\Image.Web\obj\Debug\Image.Web.dll
+E:\programming\net\my_app\ImageProject\Image.Web\obj\Debug\Image.Web.pdb

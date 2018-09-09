@@ -1,0 +1,158 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<edmx:Edmx Version="3.0" xmlns:edmx="http://schemas.microsoft.com/ado/2009/11/edmx">
+  <!-- EF Runtime content -->
+  <edmx:Runtime>
+    <!-- SSDL content -->
+    <edmx:StorageModels>
+    <Schema Namespace="ImageDBModel.Store" Provider="System.Data.SqlClient" ProviderManifestToken="2012" Alias="Self" xmlns:store="http://schemas.microsoft.com/ado/2007/12/edm/EntityStoreSchemaGenerator" xmlns:customannotation="http://schemas.microsoft.com/ado/2013/11/edm/customannotation" xmlns="http://schemas.microsoft.com/ado/2009/11/edm/ssdl">
+        <EntityType Name="Category">
+          <Key>
+            <PropertyRef Name="CategoryId" />
+          </Key>
+          <Property Name="CategoryId" Type="nchar" MaxLength="22" Nullable="false" />
+          <Property Name="CategoryName" Type="nvarchar" MaxLength="50" />
+          <Property Name="ParentId" Type="int" />
+          <Property Name="CreateDate" Type="smalldatetime" />
+          <Property Name="CreateUserId" Type="int" />
+          <Property Name="IsDelete" Type="bit" />
+          <Property Name="IsActive" Type="bit" />
+        </EntityType>
+        <EntityType Name="CategoryItem">
+          <Key>
+            <PropertyRef Name="CategoryItemId" />
+          </Key>
+          <Property Name="CategoryItemId" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+          <Property Name="CategoryItemName" Type="nvarchar" MaxLength="50" />
+        </EntityType>
+        <!--Errors Found During Generation:
+warning 6005: The data type 'JalaliDate' is currently not supported for the target Entity Framework version; the column 'TestDate' in the table 'ImageDB.dbo.TblTest' was excluded.-->
+        <EntityType Name="TblTest">
+          <Key>
+            <PropertyRef Name="Testid" />
+          </Key>
+          <Property Name="Testid" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+          <Property Name="TestText" Type="nvarchar" MaxLength="50" />
+        </EntityType>
+        <EntityType Name="tblTest2">
+          <Key>
+            <PropertyRef Name="test2" />
+          </Key>
+          <Property Name="test2" Type="nvarchar" MaxLength="50" Nullable="false" />
+          <Property Name="testText" Type="nvarchar" MaxLength="50" />
+        </EntityType>
+        <EntityContainer Name="ImageDBModelStoreContainer">
+          <EntitySet Name="Category" EntityType="Self.Category" Schema="dbo" store:Type="Tables" />
+          <EntitySet Name="CategoryItem" EntityType="Self.CategoryItem" Schema="dbo" store:Type="Tables" />
+          <EntitySet Name="TblTest" EntityType="Self.TblTest" Schema="dbo" store:Type="Tables" />
+          <EntitySet Name="tblTest2" EntityType="Self.tblTest2" Schema="dbo" store:Type="Tables" />
+        </EntityContainer>
+      </Schema></edmx:StorageModels>
+    <!-- CSDL content -->
+    <edmx:ConceptualModels>
+      <Schema Namespace="ImageDBModel" Alias="Self" annotation:UseStrongSpatialTypes="false" xmlns:annotation="http://schemas.microsoft.com/ado/2009/02/edm/annotation" xmlns:customannotation="http://schemas.microsoft.com/ado/2013/11/edm/customannotation" xmlns="http://schemas.microsoft.com/ado/2009/11/edm">
+        <EntityType Name="Category">
+          <Key>
+            <PropertyRef Name="CategoryId" />
+          </Key>
+          <Property Name="CategoryId" Type="String" MaxLength="22" FixedLength="true" Unicode="true" Nullable="false" />
+          <Property Name="CategoryName" Type="String" MaxLength="50" FixedLength="false" Unicode="true" />
+          <Property Name="ParentId" Type="Int32" />
+          <Property Name="CreateDate" Type="DateTime" Precision="0" />
+          <Property Name="CreateUserId" Type="Int32" />
+          <Property Name="IsDelete" Type="Boolean" />
+          <Property Name="IsActive" Type="Boolean" />
+        </EntityType>
+        <EntityType Name="CategoryItem">
+          <Key>
+            <PropertyRef Name="CategoryItemId" />
+          </Key>
+          <Property Name="CategoryItemId" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+          <Property Name="CategoryItemName" Type="String" MaxLength="50" FixedLength="false" Unicode="true" />
+        </EntityType>
+        <EntityContainer Name="ImageDBEntities1" annotation:LazyLoadingEnabled="true">
+          <EntitySet Name="Category" EntityType="Self.Category" />
+          <EntitySet Name="CategoryItem" EntityType="Self.CategoryItem" />
+          <EntitySet Name="TblTest" EntityType="ImageDBModel.TblTest" />
+          <EntitySet Name="tblTest2" EntityType="ImageDBModel.tblTest2" />
+        </EntityContainer>
+        <EntityType Name="TblTest">
+          <Key>
+            <PropertyRef Name="Testid" />
+          </Key>
+          <Property Name="Testid" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+          <Property Name="TestText" Type="String" MaxLength="50" FixedLength="false" Unicode="true" />
+        </EntityType>
+        <EntityType Name="tblTest2">
+          <Key>
+            <PropertyRef Name="test2" />
+          </Key>
+          <Property Name="test2" Type="String" Nullable="false" MaxLength="50" FixedLength="false" Unicode="true" />
+          <Property Name="testText" Type="String" MaxLength="50" FixedLength="false" Unicode="true" />
+        </EntityType>
+      </Schema>
+    </edmx:ConceptualModels>
+    <!-- C-S mapping content -->
+    <edmx:Mappings>
+      <Mapping Space="C-S" xmlns="http://schemas.microsoft.com/ado/2009/11/mapping/cs">
+        <EntityContainerMapping StorageEntityContainer="ImageDBModelStoreContainer" CdmEntityContainer="ImageDBEntities1">
+          <EntitySetMapping Name="Category">
+            <EntityTypeMapping TypeName="ImageDBModel.Category">
+              <MappingFragment StoreEntitySet="Category">
+                <ScalarProperty Name="CategoryId" ColumnName="CategoryId" />
+                <ScalarProperty Name="CategoryName" ColumnName="CategoryName" />
+                <ScalarProperty Name="ParentId" ColumnName="ParentId" />
+                <ScalarProperty Name="CreateDate" ColumnName="CreateDate" />
+                <ScalarProperty Name="CreateUserId" ColumnName="CreateUserId" />
+                <ScalarProperty Name="IsDelete" ColumnName="IsDelete" />
+                <ScalarProperty Name="IsActive" ColumnName="IsActive" />
+              </MappingFragment>
+            </EntityTypeMapping>
+          </EntitySetMapping>
+          <EntitySetMapping Name="CategoryItem">
+            <EntityTypeMapping TypeName="ImageDBModel.CategoryItem">
+              <MappingFragment StoreEntitySet="CategoryItem">
+                <ScalarProperty Name="CategoryItemId" ColumnName="CategoryItemId" />
+                <ScalarProperty Name="CategoryItemName" ColumnName="CategoryItemName" />
+              </MappingFragment>
+            </EntityTypeMapping>
+          </EntitySetMapping>
+          <EntitySetMapping Name="TblTest">
+            <EntityTypeMapping TypeName="ImageDBModel.TblTest">
+              <MappingFragment StoreEntitySet="TblTest">
+                <ScalarProperty Name="TestText" ColumnName="TestText" />
+                <ScalarProperty Name="Testid" ColumnName="Testid" />
+              </MappingFragment>
+            </EntityTypeMapping>
+          </EntitySetMapping>
+          <EntitySetMapping Name="tblTest2">
+            <EntityTypeMapping TypeName="ImageDBModel.tblTest2">
+              <MappingFragment StoreEntitySet="tblTest2">
+                <ScalarProperty Name="testText" ColumnName="testText" />
+                <ScalarProperty Name="test2" ColumnName="test2" />
+              </MappingFragment>
+            </EntityTypeMapping>
+          </EntitySetMapping>
+        </EntityContainerMapping>
+      </Mapping>
+    </edmx:Mappings>
+  </edmx:Runtime>
+  <!-- EF Designer content (DO NOT EDIT MANUALLY BELOW HERE) -->
+  <Designer xmlns="http://schemas.microsoft.com/ado/2009/11/edmx">
+    <Connection>
+      <DesignerInfoPropertySet>
+        <DesignerProperty Name="MetadataArtifactProcessing" Value="EmbedInOutputAssembly" />
+      </DesignerInfoPropertySet>
+    </Connection>
+    <Options>
+      <DesignerInfoPropertySet>
+        <DesignerProperty Name="ValidateOnBuild" Value="true" />
+        <DesignerProperty Name="EnablePluralization" Value="false" />
+        <DesignerProperty Name="IncludeForeignKeysInModel" Value="true" />
+        <DesignerProperty Name="UseLegacyProvider" Value="false" />
+        <DesignerProperty Name="CodeGenerationStrategy" Value="None" />
+      </DesignerInfoPropertySet>
+    </Options>
+    <!-- Diagram content (shape and connector positions) -->
+    <Diagrams></Diagrams>
+  </Designer>
+</edmx:Edmx>

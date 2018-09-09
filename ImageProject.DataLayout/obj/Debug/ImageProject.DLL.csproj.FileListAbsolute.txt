@@ -1,0 +1,26 @@
+c:\users\admin\documents\visual studio 2017\Projects\ImageProject\ImageProject.DataLayout\bin\Debug\ImageProject.DataLayout.dll.config
+c:\users\admin\documents\visual studio 2017\Projects\ImageProject\ImageProject.DataLayout\bin\Debug\ImageProject.DataLayout.dll
+c:\users\admin\documents\visual studio 2017\Projects\ImageProject\ImageProject.DataLayout\bin\Debug\ImageProject.DataLayout.pdb
+c:\users\admin\documents\visual studio 2017\Projects\ImageProject\ImageProject.DataLayout\bin\Debug\EntityFramework.dll
+c:\users\admin\documents\visual studio 2017\Projects\ImageProject\ImageProject.DataLayout\bin\Debug\EntityFramework.SqlServer.dll
+c:\users\admin\documents\visual studio 2017\Projects\ImageProject\ImageProject.DataLayout\bin\Debug\EntityFramework.xml
+c:\users\admin\documents\visual studio 2017\Projects\ImageProject\ImageProject.DataLayout\bin\Debug\EntityFramework.SqlServer.xml
+c:\users\admin\documents\visual studio 2017\Projects\ImageProject\ImageProject.DataLayout\obj\Debug\ImageProject.DLL.csproj.CoreCompileInputs.cache
+c:\users\admin\documents\visual studio 2017\Projects\ImageProject\ImageProject.DataLayout\obj\Debug\ImageProject.DLL.csproj.CopyComplete
+c:\users\admin\documents\visual studio 2017\Projects\ImageProject\ImageProject.DataLayout\obj\Debug\ImageProject.DataLayout.dll
+c:\users\admin\documents\visual studio 2017\Projects\ImageProject\ImageProject.DataLayout\obj\Debug\ImageProject.DataLayout.pdb
+C:\Users\admin\Documents\Visual Studio 2017\Projects\ImageProject\ImageProject.DataLayout\obj\Debug\ImageProject.DLL.csprojAssemblyReference.cache
+C:\Users\admin\Documents\Visual Studio 2017\Projects\ImageProject\ImageProject.DataLayout\bin\Debug\System.Linq.Dynamic.dll
+E:\programming\net\my_app\ImageProject\ImageProject.DataLayout\bin\Debug\ImageProject.DataLayout.dll.config
+E:\programming\net\my_app\ImageProject\ImageProject.DataLayout\bin\Debug\ImageProject.DataLayout.dll
+E:\programming\net\my_app\ImageProject\ImageProject.DataLayout\bin\Debug\ImageProject.DataLayout.pdb
+E:\programming\net\my_app\ImageProject\ImageProject.DataLayout\bin\Debug\EntityFramework.dll
+E:\programming\net\my_app\ImageProject\ImageProject.DataLayout\bin\Debug\EntityFramework.SqlServer.dll
+E:\programming\net\my_app\ImageProject\ImageProject.DataLayout\bin\Debug\System.Linq.Dynamic.dll
+E:\programming\net\my_app\ImageProject\ImageProject.DataLayout\bin\Debug\EntityFramework.xml
+E:\programming\net\my_app\ImageProject\ImageProject.DataLayout\bin\Debug\EntityFramework.SqlServer.xml
+E:\programming\net\my_app\ImageProject\ImageProject.DataLayout\obj\Debug\ImageProject.DLL.csprojAssemblyReference.cache
+E:\programming\net\my_app\ImageProject\ImageProject.DataLayout\obj\Debug\ImageProject.DLL.csproj.CoreCompileInputs.cache
+E:\programming\net\my_app\ImageProject\ImageProject.DataLayout\obj\Debug\ImageProject.DLL.csproj.CopyComplete
+E:\programming\net\my_app\ImageProject\ImageProject.DataLayout\obj\Debug\ImageProject.DataLayout.dll
+E:\programming\net\my_app\ImageProject\ImageProject.DataLayout\obj\Debug\ImageProject.DataLayout.pdb

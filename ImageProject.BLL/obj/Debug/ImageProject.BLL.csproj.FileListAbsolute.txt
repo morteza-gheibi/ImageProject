@@ -1,0 +1,26 @@
+C:\Users\admin\Documents\Visual Studio 2017\Projects\ImageProject\ImageProject.BLL\bin\Debug\ImageProject.BLL.dll
+C:\Users\admin\Documents\Visual Studio 2017\Projects\ImageProject\ImageProject.BLL\bin\Debug\ImageProject.BLL.pdb
+C:\Users\admin\Documents\Visual Studio 2017\Projects\ImageProject\ImageProject.BLL\bin\Debug\ImageProject.DataLayout.dll
+C:\Users\admin\Documents\Visual Studio 2017\Projects\ImageProject\ImageProject.BLL\bin\Debug\EntityFramework.dll
+C:\Users\admin\Documents\Visual Studio 2017\Projects\ImageProject\ImageProject.BLL\bin\Debug\ImageProject.DataLayout.pdb
+C:\Users\admin\Documents\Visual Studio 2017\Projects\ImageProject\ImageProject.BLL\bin\Debug\ImageProject.DataLayout.dll.config
+C:\Users\admin\Documents\Visual Studio 2017\Projects\ImageProject\ImageProject.BLL\bin\Debug\EntityFramework.xml
+C:\Users\admin\Documents\Visual Studio 2017\Projects\ImageProject\ImageProject.BLL\obj\Debug\ImageProject.BLL.csprojAssemblyReference.cache
+C:\Users\admin\Documents\Visual Studio 2017\Projects\ImageProject\ImageProject.BLL\obj\Debug\ImageProject.BLL.csproj.CoreCompileInputs.cache
+C:\Users\admin\Documents\Visual Studio 2017\Projects\ImageProject\ImageProject.BLL\obj\Debug\ImageProject.BLL.csproj.CopyComplete
+C:\Users\admin\Documents\Visual Studio 2017\Projects\ImageProject\ImageProject.BLL\obj\Debug\ImageProject.BLL.dll
+C:\Users\admin\Documents\Visual Studio 2017\Projects\ImageProject\ImageProject.BLL\obj\Debug\ImageProject.BLL.pdb
+C:\Users\admin\Documents\Visual Studio 2017\Projects\ImageProject\ImageProject.BLL\bin\Debug\System.Linq.Dynamic.dll
+E:\programming\net\my_app\ImageProject\ImageProject.BLL\bin\Debug\ImageProject.BLL.dll
+E:\programming\net\my_app\ImageProject\ImageProject.BLL\bin\Debug\ImageProject.BLL.pdb
+E:\programming\net\my_app\ImageProject\ImageProject.BLL\bin\Debug\ImageProject.DataLayout.dll
+E:\programming\net\my_app\ImageProject\ImageProject.BLL\bin\Debug\EntityFramework.dll
+E:\programming\net\my_app\ImageProject\ImageProject.BLL\bin\Debug\System.Linq.Dynamic.dll
+E:\programming\net\my_app\ImageProject\ImageProject.BLL\bin\Debug\ImageProject.DataLayout.pdb
+E:\programming\net\my_app\ImageProject\ImageProject.BLL\bin\Debug\ImageProject.DataLayout.dll.config
+E:\programming\net\my_app\ImageProject\ImageProject.BLL\bin\Debug\EntityFramework.xml
+E:\programming\net\my_app\ImageProject\ImageProject.BLL\obj\Debug\ImageProject.BLL.csprojAssemblyReference.cache
+E:\programming\net\my_app\ImageProject\ImageProject.BLL\obj\Debug\ImageProject.BLL.csproj.CoreCompileInputs.cache
+E:\programming\net\my_app\ImageProject\ImageProject.BLL\obj\Debug\ImageProject.BLL.csproj.CopyComplete
+E:\programming\net\my_app\ImageProject\ImageProject.BLL\obj\Debug\ImageProject.BLL.dll
+E:\programming\net\my_app\ImageProject\ImageProject.BLL\obj\Debug\ImageProject.BLL.pdb

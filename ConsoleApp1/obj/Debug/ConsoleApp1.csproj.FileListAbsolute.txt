@@ -1,0 +1,31 @@
+c:\users\admin\documents\visual studio 2017\Projects\ImageProject\ConsoleApp1\bin\Debug\ConsoleApp1.exe.config
+c:\users\admin\documents\visual studio 2017\Projects\ImageProject\ConsoleApp1\bin\Debug\ConsoleApp1.exe
+c:\users\admin\documents\visual studio 2017\Projects\ImageProject\ConsoleApp1\bin\Debug\ConsoleApp1.pdb
+c:\users\admin\documents\visual studio 2017\Projects\ImageProject\ConsoleApp1\bin\Debug\ImageProject.DataLayout.dll
+c:\users\admin\documents\visual studio 2017\Projects\ImageProject\ConsoleApp1\bin\Debug\EntityFramework.dll
+c:\users\admin\documents\visual studio 2017\Projects\ImageProject\ConsoleApp1\bin\Debug\ImageProject.DataLayout.pdb
+c:\users\admin\documents\visual studio 2017\Projects\ImageProject\ConsoleApp1\bin\Debug\ImageProject.DataLayout.dll.config
+c:\users\admin\documents\visual studio 2017\Projects\ImageProject\ConsoleApp1\bin\Debug\EntityFramework.xml
+c:\users\admin\documents\visual studio 2017\Projects\ImageProject\ConsoleApp1\obj\Debug\ConsoleApp1.csprojAssemblyReference.cache
+c:\users\admin\documents\visual studio 2017\Projects\ImageProject\ConsoleApp1\obj\Debug\ConsoleApp1.csproj.CoreCompileInputs.cache
+c:\users\admin\documents\visual studio 2017\Projects\ImageProject\ConsoleApp1\obj\Debug\ConsoleApp1.csproj.CopyComplete
+c:\users\admin\documents\visual studio 2017\Projects\ImageProject\ConsoleApp1\obj\Debug\ConsoleApp1.exe
+c:\users\admin\documents\visual studio 2017\Projects\ImageProject\ConsoleApp1\obj\Debug\ConsoleApp1.pdb
+c:\users\admin\documents\visual studio 2017\Projects\ImageProject\ConsoleApp1\bin\Debug\EntityFramework.SqlServer.dll
+c:\users\admin\documents\visual studio 2017\Projects\ImageProject\ConsoleApp1\bin\Debug\EntityFramework.SqlServer.xml
+E:\programming\net\my_app\ImageProject\ConsoleApp1\obj\Debug\ConsoleApp1.csprojAssemblyReference.cache
+E:\programming\net\my_app\ImageProject\ConsoleApp1\obj\Debug\ConsoleApp1.csproj.CoreCompileInputs.cache
+E:\programming\net\my_app\ImageProject\ConsoleApp1\obj\Debug\ConsoleApp1.exe
+E:\programming\net\my_app\ImageProject\ConsoleApp1\obj\Debug\ConsoleApp1.pdb
+E:\programming\net\my_app\ImageProject\ConsoleApp1\bin\Debug\ConsoleApp1.exe.config
+E:\programming\net\my_app\ImageProject\ConsoleApp1\bin\Debug\ConsoleApp1.exe
+E:\programming\net\my_app\ImageProject\ConsoleApp1\bin\Debug\ConsoleApp1.pdb
+E:\programming\net\my_app\ImageProject\ConsoleApp1\bin\Debug\EntityFramework.dll
+E:\programming\net\my_app\ImageProject\ConsoleApp1\bin\Debug\EntityFramework.SqlServer.dll
+E:\programming\net\my_app\ImageProject\ConsoleApp1\bin\Debug\ImageProject.DataLayout.dll
+E:\programming\net\my_app\ImageProject\ConsoleApp1\bin\Debug\System.Linq.Dynamic.dll
+E:\programming\net\my_app\ImageProject\ConsoleApp1\bin\Debug\ImageProject.DataLayout.pdb
+E:\programming\net\my_app\ImageProject\ConsoleApp1\bin\Debug\ImageProject.DataLayout.dll.config
+E:\programming\net\my_app\ImageProject\ConsoleApp1\bin\Debug\EntityFramework.xml
+E:\programming\net\my_app\ImageProject\ConsoleApp1\bin\Debug\EntityFramework.SqlServer.xml
+E:\programming\net\my_app\ImageProject\ConsoleApp1\obj\Debug\ConsoleApp1.csproj.CopyComplete
