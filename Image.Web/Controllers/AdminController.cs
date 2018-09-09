@@ -15,13 +15,10 @@ namespace Image.Web.Controllers
     public class AdminController : Controller
     {
         Bll bll = new Bll();
-        // GET: Admin
         public ActionResult Index()
         {
             return View();
         }
-
-      
         public ActionResult Category()
         {
             var RowCount = 0;
@@ -30,9 +27,7 @@ namespace Image.Web.Controllers
             return View(cat);
         }
         public Category CategoryInsert(Category category )=> bll.CategoryInsert(category);
-
         //==================================== categoryItem ==========================================
-
         public async Task<ActionResult> CategoryItem()=> View();
         public async Task<int> CategoryItemInsert(CategoryItem categoryItem)=>await bll.CategoryItemInsertAsync(categoryItem);
         public async Task<int> CategoryItemUpdate(CategoryItem categoryItem)=> await bll.CategoryItemUpdateAsync(categoryItem);
@@ -43,6 +38,5 @@ namespace Image.Web.Controllers
             var records = bll.CategoryItemGetFilter(categoryItem,paging, ref total);
             return Json(new { records, total }, JsonRequestBehavior.AllowGet);
         }
-
     }
 }
